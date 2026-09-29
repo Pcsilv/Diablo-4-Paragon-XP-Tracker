@@ -3,6 +3,7 @@
 🇧🇷/🇵🇹 Ferramenta usada para acompanhar o progresso de XP nos 300 niveis de Paragon do Diablo 4
 
 🇧🇷/🇵🇹 **FUNCIONAMENTO**:
+
 **Medidor de XP pessoal**: uma barra grande com o progresso total até o Paragon 300, e uma barra do nível atual. Tudo local, sem internet. Toda a curva de XP vem da planilha dentro da pasta(lida na inicialização)
 Execute o Arquivo **"Tracker.exe"**  dentro da pasta **"dist"** para abrir a ferramenta
 
