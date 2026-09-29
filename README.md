@@ -1,5 +1,5 @@
 # Diablo-4-Paragon-XP-Tracker
-🇺🇸/🇬🇧 Tool used to follow the XP progress on the 300 Paragon levels in Diablo 4                                                                
+🇺🇸/🇬🇧 Tool used to track the XP progress on the 300 Paragon levels in Diablo 4                                                                
 🇧🇷/🇵🇹 Ferramenta usada para acompanhar o progresso de XP nos 300 niveis de Paragon do Diablo 4
 
 🇧🇷/🇵🇹 **FUNCIONAMENTO**:
@@ -19,7 +19,7 @@ Execute o Arquivo **"Tracker.exe"**  dentro da pasta **"dist"** para abrir a fer
 
 🇺🇸/🇬🇧 **OPERATION**:
 
-**Personal XP Tracker**: A big bar with the total progress until Paragon 300, and a bar of the current level. Everything local, without internet connection. The XP curve comes from the table inside the folder(read on start)
+**Personal XP Tracker**: A large bar showing the total progress up to Paragon 300, and one of the current level. Everything local, without internet. The XP curve comes from the table inside the folder(read on start)
 Run the file **"Tracker.exe"** inside the **"dist"** folder to open the tool
 
 🇺🇸/🇬🇧 **HOW TO USE**:
