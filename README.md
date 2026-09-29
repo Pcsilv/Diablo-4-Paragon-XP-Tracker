@@ -9,7 +9,7 @@ Execute o Arquivo **"Tracker.exe"**  dentro da pasta **"dist"** para abrir a fer
 
 🇧🇷/🇵🇹 **COMO USAR**:
 
-**Método A (nível + XP no nível):** informe o Paragon atual e o XP dentro dele.
+**Método A (nível + XP no nível):** informe o Paragon atual e o XP dentro dele.                                    
 **Método B (XP total):** Digite o XP total acumulado e a ferramenta calcula o Paragon, o XP dentro do nível, os restantes e as duas barras.
 
 * Os dois métodos ficam sempre sincronizados: editar um preenche o outro na hora. Usar o botão **SAVE** ou sair do campo normalizam a formatação.
@@ -24,7 +24,7 @@ Run the file **"Tracker.exe"** inside the **"dist"** folder to open the tool
 
 🇺🇸/🇬🇧 **HOW TO USE**:
 
-**Method A(Level + XP inside level):** Report the current Paragon and the XP inside it.
+**Method A(Level + XP inside level):** Report the current Paragon and the XP inside it.                                     
 **Method B(Total XP):** Type the total cumulated XP and the tool calculates Paragon, XP inside the level, the remaining and both bars.
 
 * Both methods are always synchronized: editing one fulfils the other real time. Using the **SAVE** button or leaving the field normalizes the formatation.
