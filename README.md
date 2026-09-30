@@ -19,6 +19,7 @@ fácil acesso no seu computador.
 * **Por enquanto somente a versão em inglês da ferramenta está disponível**
 
 🇧🇷/🇵🇹 **FUNÇÃO DE TABELA:**                           
+
 A ferramenta possui uma função de tabela que visualiza em detalhes todos os 300 niveis de Paragon e o XP necessário para alcançar cada um, além de destacar o nível atual do usuário
 
 🇺🇸/🇬🇧 **OPERATION**:
@@ -36,4 +37,5 @@ Run the file **"build.bat"** to install the tool, which will be inside the **"di
 * Invalid values show messages; values outside thje limites are fixed (ex: XP beyond the maximum is limited to P300 with a warning)
 
 🇺🇸/🇬🇧 **TABLE FEATURE:**                      
+
 The tool has table feature that displays all 300 Paragon levels and the XP required to reach each one in detail, while also highlighting the user's current level.
