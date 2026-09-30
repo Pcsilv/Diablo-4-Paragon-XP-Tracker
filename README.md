@@ -5,7 +5,8 @@
 🇧🇷/🇵🇹 **FUNCIONAMENTO**:
 
 **Medidor de XP pessoal**: uma barra grande com o progresso total até o Paragon 300, e uma barra do nível atual. Tudo local, sem internet. Toda a curva de XP vem da planilha dentro da pasta(lida na inicialização)
-Execute o Arquivo **"Tracker.exe"**  dentro da pasta **"dist"** para abrir a ferramenta
+Execute o Arquivo **"build.bat"** para fazer a instalação da ferramenta, que ficará dentro da pasta **"dist"** com o nome de **"Tracker.exe"**. Caso desejar, faça um atalho do arquivo .exe para outra pasta de mais 
+fácil acesso no seu computador.   
 
 🇧🇷/🇵🇹 **COMO USAR**:
 
@@ -23,7 +24,7 @@ A ferramenta possui uma função de tabela que visualiza em detalhes todos os 30
 🇺🇸/🇬🇧 **OPERATION**:
 
 **Personal XP Tracker**: A large bar showing the total progress up to Paragon 300, and one of the current level. Everything local, without internet. The XP curve comes from the table inside the folder(read on start)
-Run the file **"Tracker.exe"** inside the **"dist"** folder to open the tool
+Run the file **"build.bat"** to install the tool, which will be inside the **"dist"** folder, named **"Tracker.exe"**. If you wish, create a shortcut to the .exe file in an easily accessible folder on your computer. 
 
 🇺🇸/🇬🇧 **HOW TO USE**:
 
