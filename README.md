@@ -17,6 +17,9 @@ Execute o Arquivo **"Tracker.exe"**  dentro da pasta **"dist"** para abrir a fer
 * Valores inválidos mostram mensagem; valores fora dos limites são corrigidos (ex: XP acima do máximo é limitado a P300 com aviso)
 * **Por enquanto somente a versão em inglês da ferramenta está disponível**
 
+🇧🇷/🇵🇹 **FUNÇÃO DE TABELA:** 
+A ferramenta possui uma função de tabela que visualiza em detalhes todos os 300 niveis de Paragon e o XP necessário para alcançar cada um, além de destacar o nível atual do usuário
+
 🇺🇸/🇬🇧 **OPERATION**:
 
 **Personal XP Tracker**: A large bar showing the total progress up to Paragon 300, and one of the current level. Everything local, without internet. The XP curve comes from the table inside the folder(read on start)
@@ -30,3 +33,6 @@ Run the file **"Tracker.exe"** inside the **"dist"** folder to open the tool
 * Both methods are always synchronized: editing one fulfils the other real time. Using the **SAVE** button or leaving the field normalizes the formatation.
 * The value of your XP is saved in `progress.json` (besides the software) and loaded anytime you open the tool again.
 * Invalid values show messages; values outside thje limites are fixed (ex: XP beyond the maximum is limited to P300 with a warning)
+
+🇺🇸/🇬🇧 **TABLE FEATURE:**
+The tool has table feature that displays all 300 Paragon levels and the XP required to reach each one in detail, while also highlighting the user's current level.
