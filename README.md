@@ -1,6 +1,6 @@
 # Diablo-4-Paragon-XP-Tracker
+🇧🇷/🇵🇹 Ferramenta usada para acompanhar o progresso de XP nos 300 niveis de Paragon do Diablo 4                       
 🇺🇸/🇬🇧 Tool used to track the XP progress on the 300 Paragon levels in Diablo 4                                                                
-🇧🇷/🇵🇹 Ferramenta usada para acompanhar o progresso de XP nos 300 niveis de Paragon do Diablo 4
 
 🇧🇷/🇵🇹 **FUNCIONAMENTO**:
 
