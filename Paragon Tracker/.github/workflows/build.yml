@@ -1,0 +1,36 @@
+name: Build Paragon Tracker
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: windows-latest
+
+    steps:
+      - name: Download repository code
+        uses: actions/checkout@v4
+
+      - name: Set python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          pip install pyinstaller
+
+      - name: Compile software
+        run: |
+          pyinstaller --noconfirm --clean --onefile --windowed --name "ParagonTracker" main.py
+
+      - name: make executable avaiable
+        uses: actions/upload-artifact@v4
+        with:
+          name: ParagonTracker-Windows
+          path: dist/ParagonTracker.exe
