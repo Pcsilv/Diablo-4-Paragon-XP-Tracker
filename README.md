@@ -18,7 +18,7 @@ fácil acesso no seu computador.
 * Valores inválidos mostram mensagem; valores fora dos limites são corrigidos (ex: XP acima do máximo é limitado a P300 com aviso)
 * **Por enquanto somente a versão em inglês da ferramenta está disponível**
 
-🇧🇷/🇵🇹 **FUNÇÃO DE TABELA:** 
+🇧🇷/🇵🇹 **FUNÇÃO DE TABELA:**                           
 A ferramenta possui uma função de tabela que visualiza em detalhes todos os 300 niveis de Paragon e o XP necessário para alcançar cada um, além de destacar o nível atual do usuário
 
 🇺🇸/🇬🇧 **OPERATION**:
@@ -35,5 +35,5 @@ Run the file **"build.bat"** to install the tool, which will be inside the **"di
 * The value of your XP is saved in `progress.json` (besides the software) and loaded anytime you open the tool again.
 * Invalid values show messages; values outside thje limites are fixed (ex: XP beyond the maximum is limited to P300 with a warning)
 
-🇺🇸/🇬🇧 **TABLE FEATURE:**
+🇺🇸/🇬🇧 **TABLE FEATURE:**                      
 The tool has table feature that displays all 300 Paragon levels and the XP required to reach each one in detail, while also highlighting the user's current level.
