@@ -4,7 +4,7 @@
 
 🇧🇷/🇵🇹 **FUNCIONAMENTO**:
 
-**Medidor de XP pessoal**: uma barra grande com o progresso total até o Paragon 300, e uma barra do nível atual. Tudo local, sem internet. Toda a curva de XP vem da planilha dentro da pasta(lida na inicialização)
+**Medidor de XP pessoal**: uma barra grande com o progresso total até o Paragon 300, e uma barra do nível atual. Tudo local, sem internet. Toda a curva de XP vem da planilha dentro da pasta(lida na inicialização)         
 Execute o Arquivo **"build.bat"** para fazer a instalação da ferramenta, que ficará dentro da pasta **"dist"** com o nome de **"Tracker.exe"**. Caso desejar, faça um atalho do arquivo .exe para outra pasta de mais 
 fácil acesso no seu computador.   
 
